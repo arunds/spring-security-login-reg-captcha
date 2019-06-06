@@ -2,7 +2,7 @@
 
 This springboot application developed with spring mvc, spring security, spring data jpa and captcha.
 
-This is a typical login application with captch component integrated. It has registration form, account update screen with different roles
+This is a typical login application with captch component integrated. It has registration form, account update screen with different roles. This application also has remember-me functionality as well.
 
 To run the spring boot application. get into the root directory and run this maven command
 
